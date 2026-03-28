@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Eglinton West Dental × Dave & Buster's — Partnership Proposal</title>
+<title>Eglinton West Dental × Dave & Buster's — Strategic Partnership Proposal</title>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Playfair+Display:wght@700;900&display=swap" rel="stylesheet">
 <style>
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -439,10 +439,10 @@ h2 {
   <div class="nav-brand">
     <span class="nav-db">EGLINTON WEST DENTAL</span>
     <span class="nav-x">×</span>
-    <span class="nav-dental">Dave &amp; Buster's</span>
+    <span class="nav-dental">Dental Arcade</span>
   </div>
   <div style="display:flex;align-items:center;gap:16px;">
-    <span class="nav-label">Partnership Proposal — 2026</span>
+    <span class="nav-label">Strategic Proposal — 2026</span>
     <div class="nav-links">
       <a href="#concept">Concept</a>
       <a href="#market">Market</a>
@@ -456,10 +456,10 @@ h2 {
 <div class="hero">
   <div class="hero-bg"></div>
   <div class="hero-grid"></div>
-  <div class="confidential-bar"><div class="conf-dot"></div>Confidential — Submitted to Dave &amp; Buster's Corporate — 2026</div>
-  <p class="hero-eyebrow">A Proposal from Eglinton West Dental</p>
+  <div class="confidential-bar"><div class="conf-dot"></div>Confidential — Strategic Expansion Proposal — 2026</div>
+  <p class="hero-eyebrow">Dave &amp; Buster's Presents</p>
   <h1>Play While You <span class="red">Wait.</span><br>Win Before You <span class="gold">Drill.</span></h1>
-  <p class="hero-sub-headline">Eglinton West Dental proposes a national partnership placing Dave &amp; Buster's branded mini-arcade units in dental offices across Canada and the US — turning the most dreaded wait in North America into a brand moment.</p>
+  <p class="hero-sub-headline">A national expansion strategy placing Dave &amp; Buster's branded mini-arcade units in dental offices — turning the most dreaded wait in America into a brand moment.</p>
   <div class="hero-stats">
     <div class="hero-stat">
       <span class="hero-stat-num">200M+</span>
@@ -488,7 +488,7 @@ h2 {
   <div class="reveal">
     <div class="label-tag">The Concept</div>
     <h2>Arcades belong<br>in dental offices.</h2>
-    <p class="section-intro">Eglinton West Dental has seen it firsthand: patients arrive anxious, wait in silence, and leave as quickly as possible. We want to change that — and we believe Dave &amp; Buster's is the only brand in the world that can help us do it. This proposal outlines a partnership that benefits patients, dental practices, and D&B alike.</p>
+    <p class="section-intro">The dental waiting room is one of the highest-anxiety, lowest-engagement spaces in American life. People dread it. They scroll their phones. They leave reviews about how long it took. We flip the entire experience — and make Dave & Buster's the brand that did it.</p>
   </div>
 
   <div class="big-concept reveal">
@@ -503,7 +503,7 @@ h2 {
       </svg>
     </div>
     <h3>The D&amp;B Dental Arcade Unit</h3>
-    <p>A compact, wall-mounted or freestanding Dave &amp; Buster's branded arcade terminal — featuring curated family-friendly games, a reward chip dispenser, and branded messaging. Piloted first at Eglinton West Dental in Toronto, then rolled out to dental practices across North America through a D&amp;B franchise partnership program.</p>
+    <p>A compact, wall-mounted or freestanding Dave &amp; Buster's branded arcade terminal — featuring curated family-friendly games, a reward chip dispenser, and branded messaging. Placed in dental office waiting rooms across the country, exclusively through a D&amp;B partnership program.</p>
   </div>
 
   <div class="concept-grid reveal">
@@ -511,8 +511,8 @@ h2 {
       <div class="concept-icon">
         <svg viewBox="0 0 24 24" fill="none" stroke="#F5C842" stroke-width="2" width="22" height="22"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
       </div>
-      <h3>Brand in the Most Captive Room in North America</h3>
-      <p>At Eglinton West Dental, patients wait an average of 47 minutes. They're anxious, bored, and glued to whatever's in front of them. A D&B unit is in front of them — and they can't leave.</p>
+      <h3>Brand in the Most Captive Room in America</h3>
+      <p>Patients wait an average of 47 minutes. They're anxious, bored, and glued to whatever's in front of them. A D&B unit is in front of them — and they can't leave.</p>
     </div>
     <div class="concept-card">
       <div class="concept-icon">
@@ -590,7 +590,7 @@ h2 {
   <div class="unit-layout reveal">
     <div class="unit-visual">
       <div class="arcade-mockup">
-        <div class="arcade-logo">DAVE & BUSTER'S</div>
+        <div class="arcade-logo">EGLINTON WEST DENTAL</div>
         <div class="arcade-screen">
           <div class="screen-glow"></div>
           <div style="position:relative;z-index:1;">
@@ -641,7 +641,7 @@ h2 {
 <div style="padding:0 48px;">
   <div class="callout reveal">
     <p>"The waiting room is not dead time. It is the most undermonetized real estate in American retail."</p>
-    <p class="callout-attr">— Dr. Libfeld, Eglinton West Dental, Toronto — 2026</p>
+    <p class="callout-attr">— Strategic Insight, D&B Dental Arcade Proposal 2026</p>
   </div>
 </div>
 
@@ -651,7 +651,7 @@ h2 {
   <div class="reveal">
     <div class="label-tag">Revenue Model</div>
     <h2>How everyone wins.</h2>
-    <p class="section-intro">Three revenue streams. Two stakeholders. One simple agreement. Eglinton West Dental earns passive income, Dave & Buster's earns marketing attribution and foot traffic, and patients earn chips.</p>
+    <p class="section-intro">Three revenue streams. Two stakeholders. One simple agreement. The dental office earns passive income, Dave & Buster's earns marketing attribution and foot traffic, and patients earn chips.</p>
   </div>
 
   <div class="rev-grid reveal">
@@ -745,7 +745,7 @@ h2 {
       <div class="phase-body">
         <div class="phase-tag">Months 1–6 — Pilot</div>
         <h3>Prove It in 50 Practices</h3>
-        <p>Deploy D&B Dental Arcade Units starting with Eglinton West Dental in Toronto, then expanding to 50 family and pediatric dental offices across 3 cities — Toronto, Dallas, and Chicago. Measure engagement, chip redemption rates, and conversion to in-store visits. Gather patient satisfaction data from dental office partners.</p>
+        <p>Deploy D&B Dental Arcade Units in 50 family and pediatric dental offices across 3 cities — ideally near existing D&B locations (Dallas, Chicago, Atlanta). Measure engagement, chip redemption rates, and conversion to in-store visits. Gather patient satisfaction data from dental office partners.</p>
         <div class="phase-metrics">
           <div class="phase-metric"><span class="phase-metric-val">50</span><span class="phase-metric-label">Pilot locations</span></div>
           <div class="phase-metric"><span class="phase-metric-val">3</span><span class="phase-metric-label">Target cities</span></div>
@@ -822,10 +822,10 @@ h2 {
 <div class="cta-section">
   <div class="reveal">
     <div class="label-tag" style="justify-content:center;">Next Steps</div>
-    <h2>Eglinton West Dental Wants to Build This With You<br><span style="color:var(--red)">together.</span></h2>
-    <p>Eglinton West Dental is ready to run the pilot. 90 days, full attribution tracking, real patients. The data will speak for itself. Let's get in a room.</p>
+    <h2>Let's build the pilot<br><span style="color:var(--red)">together.</span></h2>
+    <p>We're proposing a 90-day pilot program: 50 dental offices, 3 cities, full attribution tracking. The data will speak for itself. Let's get in a room.</p>
     <div class="cta-buttons">
-      <a href="mailto:info@eglintonwestdental.com" class="btn-primary">
+      <a href="mailto:strategy@daveandbusters.com" class="btn-primary">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" width="18" height="18"><path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.4 10.8a19.79 19.79 0 01-3.07-8.67A2 2 0 012.32 0h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 8.09a16 16 0 006.83 6.83l1.46-1.46a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/></svg>
         Request a Meeting
       </a>
@@ -838,8 +838,8 @@ h2 {
 </div>
 
 <div class="footer-bar">
-  <div class="footer-logo"><span class="red">Eglinton West Dental</span> × Dave &amp; Buster's — Confidential Strategic Proposal 2026</div>
-  <div>Submitted by Eglinton West Dental, Toronto, ON — For Dave &amp; Buster's Corporate Review</div>
+  <div class="footer-logo"><span class="red">Dave &amp; Buster's</span> × Dental Arcade — Confidential Strategic Proposal 2026</div>
+  <div>Prepared for internal review and executive presentation</div>
 </div>
 
 <script>
